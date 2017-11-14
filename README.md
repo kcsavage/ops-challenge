@@ -4,7 +4,7 @@ Thanks for your interest in joining the team here at Room Key. Part of our evalu
 
 ## Overview
 
-At Room Key, we believe in DevOps practices such as Cloud Computing, Infrastructure as Code, Immutable Infrastructure, and Continuous Integration. Your challenge is to define the infrastructure for an Open Source application of your choice. You must provide a script that allows anyone with the proper AWS credentials to provision and teardown the infrastructure you defined. The result of the provisioning process will be a highly available 
+At Room Key, we believe in DevOps practices such as Cloud Computing, Infrastructure as Code, Immutable Infrastructure, and Continuous Integration. Your challenge is to define the infrastructure for an Open Source application of your choice. You must provide a script that allows anyone with the proper AWS credentials to provision and teardown the infrastructure you defined. The result of the provisioning process will be a highly available deployment of that application.
 
 ## Requirements and Expectations
 
