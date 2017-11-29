@@ -29,7 +29,7 @@ EOF
 
 echo ""
 echo ""
-slowecho "Thanks for your interest in joining the team here at Room Key. Part of our evaluation process for potential team members is to have them submit sample project. At Room Key, we believe in DevOps practices such as Cloud Computing, Infrastructure as Code, Immutable Infrastructure, and Continuous Integration."
+slowecho "Thanks for your interest in joining the team here at Room Key. Part of our evaluation process for potential team members is to have them submit sample projects. At Room Key, we believe in DevOps practices such as Cloud Computing, Infrastructure as Code, Immutable Infrastructure, and Continuous Integration."
 echo ""
 echo ""
 slowecho "Your challenge if you choose to accept it is to define the infrastructure in AWS for an Open Source application of your choice. It can be any Open Source web application. The only requirement of the application is that it persists data to some datastore such as MySQL, Redis, etc. You are free to use any tools or services AWS offers. The result of the provisioning process will be a highly available deployment of that application. If a server goes down, the application will remain available."
